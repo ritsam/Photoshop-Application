@@ -1,0 +1,36 @@
+med school
+
+umiami
+nova med
+tulane
+lsu
+loyola
+fiu
+georgetown
+uc davis
+ucf
+
+ny? cal?
+
+
+sfml-graphics-s.lib
+sfml-window-s.lib
+sfml-system-s.lib
+opengl32.lib
+freetype.lib
+winmm.lib
+gdi32.lib
+sfml-audio-s.lib
+flac.lib
+vorbisenc.lib
+vorbisfile.lib
+vorbis.lib
+ogg.lib
+sfml-network-s.lib
+ws2_32.lib
+
+sfml-graphics.lib
+sfml-window.lib
+sfml-system.lib
+sfml-audio.lib
+sfml-network.lib
